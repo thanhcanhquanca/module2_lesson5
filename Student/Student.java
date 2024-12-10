@@ -4,11 +4,7 @@ public class Student {
     private String name;
     private String classes;
 
-
     public Student() {
-    }
-
-    public Student(String name, String classes) {
         this.name = "john";
         this.classes = "CO2";
     }
